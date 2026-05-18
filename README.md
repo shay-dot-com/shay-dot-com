@@ -10,6 +10,12 @@
 
 </div>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
 ---
 
 ## 🚀 About Me
