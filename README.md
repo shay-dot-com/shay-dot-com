@@ -96,7 +96,21 @@
 
 ## 🎵 Now Playing
 
-> 🎧 **"Here We Go"** — the perfect soundtrack when code starts working after three hours of debugging and existential crisis.
+<div align="center">
+  <table>
+    <tr>
+      <td width="120">
+        <img src="assets/here-we-go.jpg" width="110" style="border-radius: 10px;" />
+      </td>
+      <td align="left">
+        <b>▶️ Here We Go</b><br>
+        Chris Classic<br><br>
+        ▂ ▄ ▆ ▇ ▆ ▄ ▂<br>
+        <code>01:42 ────────●──── 03:15</code>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
