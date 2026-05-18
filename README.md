@@ -116,16 +116,47 @@
 
 ## ⚽ Football Passion
 
-* 🐐 Lionel Messi
-* 🇦🇷 Argentina
-* 🔵🔴 FC Barcelona
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="assets/Football/Messi.png" width="100"><br>
+        <b>Lionel Messi</b>
+      </td>
+      <td align="center">
+        <img src="assets/Football/barcelona.png" width="80" height="80"><br>
+        <b>FC Barcelona</b>
+      </td>
+      <td align="center">
+        <img src="assets/Football/Argentina.svg" width="100" height="80"><br>
+        <b>Argentina</b>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 🏎️ Formula 1
+## 🏎️ Formula 1 Passion
 
-* 🏁 Max Verstappen
-* 🔥 Precision, speed, and ruthless consistency
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="assets/F1/MaxVerstappen.png" width="100"><br>
+        <b>Max Verstappen</b>
+      </td>
+      <td align="center">
+        <img src="assets/F1/F1.png" width="100"><br>
+        <b>Formula 1</b>
+      </td>
+      <td align="center">
+        <img src="assets/F1/rbr.png" width="100"><br>
+        <b>Red Bull Racing</b>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
