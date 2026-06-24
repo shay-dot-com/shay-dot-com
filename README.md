@@ -4,7 +4,7 @@
 
 # Hi there 👋 I'm Shaheen
 
-### ACCA Affiliate • Finance Enthusiast • Full Stack Developer • AI & Automation Builder
+### Just here hobby coding
 
 <img src="https://komarev.com/ghpvc/?username=shay-dot-com&label=Profile%20Views&color=0e75b6&style=flat" />
 
