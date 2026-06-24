@@ -4,8 +4,6 @@
 
 # Hi there 👋 I'm Shaheen
 
-### Just here hobby coding
-
 <img src="https://komarev.com/ghpvc/?username=shay-dot-com&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
@@ -26,29 +24,6 @@
 * 📊 Passionate about finance dashboards, audit tools, and business automation
 * 🎯 Focused on combining Finance + Technology to build impactful solutions
 * 🌍 Based in Kerala, India
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge\&logo=python)
-![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge\&logo=php)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript)
-![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge\&logo=go)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge\&logo=css3)
-
-### ⚙️ Frameworks & Tools
-
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge\&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge\&logo=node.js)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge\&logo=tailwind-css)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge\&logo=visual-studio-code)
 
 ---
 
@@ -82,104 +57,4 @@
 
 </div>
 
----
-
-## 🌱 Currently Learning
-
-* Advanced React and Next.js
-* Backend Development and APIs
-* AI Integrations and Automation
-* Scalable Application Architecture
-* Finance and Audit Technology Solutions
-
----
-
-## 🎵 Now Playing
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="120">
-        <img src="assets/here-we-go.jpg" width="110" style="border-radius: 10px;" />
-      </td>
-      <td align="left">
-        <b>▶️ Here We Go</b><br>
-        Chris Classic<br><br>
-        ▂ ▄ ▆ ▇ ▆ ▄ ▂<br>
-        <code>01:42 ────────●──── 03:15</code>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## ⚽ Football Passion
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="assets/Football/Messi.png" width="100"><br>
-        <b>Lionel Messi</b>
-      </td>
-      <td align="center">
-        <img src="assets/Football/barcelona.png" width="80" height="80"><br>
-        <b>FC Barcelona</b>
-      </td>
-      <td align="center">
-        <img src="assets/Football/Argentina.svg" width="100" height="80"><br>
-        <b>Argentina</b>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🏎️ Formula 1 Passion
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="assets/F1/MaxVerstappen.png" width="100"><br>
-        <b>Max Verstappen</b>
-      </td>
-      <td align="center">
-        <img src="assets/F1/F1.png" width="100"><br>
-        <b>Formula 1</b>
-      </td>
-      <td align="center">
-        <img src="assets/F1/rbr.png" width="100"><br>
-        <b>Red Bull Racing</b>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 📌 Featured Project Ideas
-
-* 🌐 Modern Full-Stack Web Applications
-* 🤖 AI Chatbots and Automation Tools
-* 📊 Finance Dashboards
-* 🧾 Audit Management Systems
-* 🏭 ERP and Business Process Solutions
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel)](YOUR_PORTFOLIO_URL)
-
----
-
-<div align="center">
-
-### ⚡ "Building systems where Finance meets Technology."
-
-</div>
 
